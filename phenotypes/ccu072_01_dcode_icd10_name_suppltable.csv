@@ -1,0 +1,348 @@
+diagnosis,group,icd10_code,icd10_code_name
+Acute pericarditis,"Cardiac infection, inflammation and other cardiovascular conditions",I010,Acute rheumatic pericarditis
+Acute pericarditis,"Cardiac infection, inflammation and other cardiovascular conditions",I300,Acute nonspecific idiopathic pericarditis
+Acute pericarditis,"Cardiac infection, inflammation and other cardiovascular conditions",I301,Infective pericarditis
+Acute pericarditis,"Cardiac infection, inflammation and other cardiovascular conditions",I308,Other forms of acute pericarditis
+Acute pericarditis,"Cardiac infection, inflammation and other cardiovascular conditions",I309,"Acute pericarditis, unspecified"
+Aneurysm and dissection of other artery,Aneurysm and dissection of specified arteries,I670,"Dissection of cerebral arteries, nonruptured"
+Aneurysm and dissection of other artery,Aneurysm and dissection of specified arteries,I720,Aneurysm and dissection of carotid artery
+Aneurysm and dissection of other artery,Aneurysm and dissection of specified arteries,I721,Aneurysm and dissection of artery of upper extremity
+Aneurysm and dissection of other artery,Aneurysm and dissection of specified arteries,I722,Aneurysm and dissection of renal artery
+Aneurysm and dissection of other artery,Aneurysm and dissection of specified arteries,I725,Aneurysm and dissection of other precerebral arteries
+Aneurysm and dissection of other artery,Aneurysm and dissection of specified arteries,I726,Aneurysm and dissection of vertebral artery
+Aneurysm and dissection of other artery,Aneurysm and dissection of specified arteries,I728,Aneurysm and dissection of other specified arteries
+Aneurysm and dissection of other artery,Aneurysm and dissection of specified arteries,I729,Aneurysm and dissection of unspecified site
+Aneurysm of artery of lower extremity,Aneurysm and dissection of specified arteries,I724,Aneurysm and dissection of artery of lower extremity
+Angina pectoris,Ischaemic heart disease,I20,Angina pectoris
+Angina pectoris,Ischaemic heart disease,I201,Angina pectoris with documented spasm
+Angina pectoris,Ischaemic heart disease,I208,Other forms of angina pectoris
+Angina pectoris,Ischaemic heart disease,I209,"Angina pectoris, unspecified"
+"Aortic aneurysm, ruptured",Aneurysm and dissection of specified arteries,I713,"Abdominal aortic aneurysm, ruptured"
+"Aortic aneurysm, unruptured",Aneurysm and dissection of specified arteries,I712,"Thoracic aortic aneurysm, without mention of rupture"
+"Aortic aneurysm, unruptured",Aneurysm and dissection of specified arteries,I714,"Abdominal aortic aneurysm, without mention of rupture"
+"Aortic aneurysm, unruptured",Aneurysm and dissection of specified arteries,I716,"Thoracoabdominal aortic aneurysm, without mention of rupture"
+"Aortic aneurysm, unruptured",Aneurysm and dissection of specified arteries,I719,"Aortic aneurysm of unspecified site, without mention of rupture"
+Aortic dissection,Aneurysm and dissection of specified arteries,I710,Dissection of aorta any part
+Aortic valve disease,Cardiac valve diseases,I060,Rheumatic aortic stenosis
+Aortic valve disease,Cardiac valve diseases,I061,Rheumatic aortic insufficiency
+Aortic valve disease,Cardiac valve diseases,I062,Rheumatic aortic stenosis with insufficiency
+Aortic valve disease,Cardiac valve diseases,I068,Other rheumatic aortic valve diseases
+Aortic valve disease,Cardiac valve diseases,I069,"Rheumatic aortic valve disease, unspecified"
+Aortic valve disease,Cardiac valve diseases,I350,Aortic (valve) stenosis
+Aortic valve disease,Cardiac valve diseases,I351,Aortic (valve) insufficiency
+Aortic valve disease,Cardiac valve diseases,I352,Aortic (valve) stenosis with insufficiency
+Aortic valve disease,Cardiac valve diseases,I358,Other aortic valve disorders
+Aortic valve disease,Cardiac valve diseases,I359,"Aortic valve disorder, unspecified"
+Aortic valve disease,Cardiac valve diseases,I391,Aortic valve disorders in diseases classified elsewhere
+Atherosclerosis of aorta,Atherosclerosis,I700,Atherosclerosis of aorta
+Atherosclerosis of renal artery,Atherosclerosis,I701,Atherosclerosis of renal artery
+"Atherosclerosis, unspecified",Atherosclerosis,I250,"Atherosclerotic cardiovascular disease, so described"
+"Atherosclerosis, unspecified",Atherosclerosis,I708,Atherosclerosis of other arteries
+"Atherosclerosis, unspecified",Atherosclerosis,I709,Generalized and unspecified atherosclerosis
+Atherosclerotic gangrene,Atherosclerosis,I702,Atherosclerosis of arteries of extremities
+Atrial fibrillation or flutter,Cardiac dysrhythmias,I48,Atrial fibrillation and flutter
+Atrial fibrillation or flutter,Cardiac dysrhythmias,I480,Paroxysmal atrial fibrillation
+Atrial fibrillation or flutter,Cardiac dysrhythmias,I481,Persistent atrial fibrillation
+Atrial fibrillation or flutter,Cardiac dysrhythmias,I482,Chronic atrial fibrillation
+Atrial fibrillation or flutter,Cardiac dysrhythmias,I483,Typical atrial flutter
+Atrial fibrillation or flutter,Cardiac dysrhythmias,I484,Atypical atrial flutter
+Atrial fibrillation or flutter,Cardiac dysrhythmias,I489,"Atrial fibrillation and atrial flutter, unspecified"
+Atrioventricular block,Cardiac conduction disorders,I440,"Atrioventricular block, first degree"
+Atrioventricular block,Cardiac conduction disorders,I441,"Atrioventricular block, second degree"
+Atrioventricular block,Cardiac conduction disorders,I442,"Atrioventricular block, complete"
+Atrioventricular block,Cardiac conduction disorders,I443,Other and unspecified atrioventricular block
+Atrioventricular block,Cardiac conduction disorders,I455,Other specified heart block
+"Atrioventricular dissociation, interference dissociation, and long QT syndrome",Cardiac conduction disorders,I458,Other specified conduction disorders
+Cardiac arrest,Cardiac dysrhythmias,I460,Cardiac arrest with successful resuscitation
+Cardiac arrest,Cardiac dysrhythmias,I469,"Cardiac arrest, unspecified"
+Cardiomyopathy,Heart failure and cardiomyopathy,I420,Dilated cardiomyopathy
+Cardiomyopathy,Heart failure and cardiomyopathy,I421,Obstructive hypertrophic cardiomyopathy
+Cardiomyopathy,Heart failure and cardiomyopathy,I422,Other hypertrophic cardiomyopathy
+Cardiomyopathy,Heart failure and cardiomyopathy,I423,Endomyocardial (eosinophilic) disease
+Cardiomyopathy,Heart failure and cardiomyopathy,I424,Endocardial fibroelastosis
+Cardiomyopathy,Heart failure and cardiomyopathy,I425,Other restrictive cardiomyopathy
+Cardiomyopathy,Heart failure and cardiomyopathy,I426,Alcoholic cardiomyopathy
+Cardiomyopathy,Heart failure and cardiomyopathy,I427,Cardiomyopathy due to drugs and other external agents
+Cardiomyopathy,Heart failure and cardiomyopathy,I428,Other cardiomyopathies
+Cardiomyopathy,Heart failure and cardiomyopathy,I429,"Cardiomyopathy, unspecified"
+Cardiomyopathy,Heart failure and cardiomyopathy,I430,Cardiomyopathy in infectious and parasitic diseases classified elsewhere
+Cardiomyopathy,Heart failure and cardiomyopathy,I431,Cardiomyopathy in metabolic diseases
+Cardiomyopathy,Heart failure and cardiomyopathy,I432,Cardiomyopathy in nutritional diseases
+Cardiomyopathy,Heart failure and cardiomyopathy,I515,Myocardial degeneration
+"Cardiovascular disease, unspecified","Cardiac infection, inflammation and other cardiovascular conditions",I516,"Cardiovascular disease, unspecified"
+"Cardiovascular disease, unspecified","Cardiac infection, inflammation and other cardiovascular conditions",I518,Other ill-defined heart diseases
+"Chronic ischaemic heart disease, unspecified",Ischaemic heart disease,I248,Other forms of acute ischaemic heart disease
+"Chronic ischaemic heart disease, unspecified",Ischaemic heart disease,I249,"Acute ischaemic heart disease, unspecified"
+"Chronic ischaemic heart disease, unspecified",Ischaemic heart disease,I255,Ischaemic cardiomyopathy
+"Chronic ischaemic heart disease, unspecified",Ischaemic heart disease,I256,Silent myocardial ischaemia
+"Chronic ischaemic heart disease, unspecified",Ischaemic heart disease,I258,Other forms of chronic ischaemic heart disease
+"Chronic ischaemic heart disease, unspecified",Ischaemic heart disease,I259,"Chronic ischaemic heart disease, unspecified"
+Chronic pericarditis,"Cardiac infection, inflammation and other cardiovascular conditions",I092,Chronic rheumatic pericarditis
+Chronic pericarditis,"Cardiac infection, inflammation and other cardiovascular conditions",I310,Chronic adhesive pericarditis
+Chronic pericarditis,"Cardiac infection, inflammation and other cardiovascular conditions",I311,Chronic constrictive pericarditis
+Chronic pericarditis,"Cardiac infection, inflammation and other cardiovascular conditions",I312,"Haemopericardium, not elsewhere classified"
+Chronic pericarditis,"Cardiac infection, inflammation and other cardiovascular conditions",I318,Other specified diseases of pericardium
+Chronic venous insufficiency,Vein disorders,I872,Venous insufficiency (chronic)(peripheral)
+Coronary atherosclerosis,Ischaemic heart disease,I240,Coronary thrombosis not resulting in myocardial infarction
+Coronary atherosclerosis,Ischaemic heart disease,I251,Atherosclerotic heart disease
+Coronary atherosclerosis,Ischaemic heart disease,I253,Aneurysm of heart
+Coronary atherosclerosis,Ischaemic heart disease,I254,Coronary artery aneurysm and dissection
+Coronary atherosclerosis,Ischaemic heart disease,Z951,Presence of aortocoronary bypass graft
+Coronary atherosclerosis,Ischaemic heart disease,Z955,Presence of coronary angioplasty implant and graft
+Diabetic peripheral angiopathies,Peripheral vascular disease and other vasculitis,E105,Type 1 diabetes mellitus
+Diabetic peripheral angiopathies,Peripheral vascular disease and other vasculitis,E115,Type 2 diabetes mellitus
+Diabetic peripheral angiopathies,Peripheral vascular disease and other vasculitis,E145,Unspecified diabetes mellitus
+"Disease of pericardium, unspecified","Cardiac infection, inflammation and other cardiovascular conditions",I319,"Disease of pericardium, unspecified"
+"Diseases of pulmonary arteries or veins, unspecified",Pulmonary vessel disorders,I288,Other specified diseases of pulmonary vessels
+Eisenmenger's syndrome,Pulmonary vessel disorders,I278,Other specified pulmonary heart diseases
+Embolism or thrombosis of abdominal aorta,Arterial embolism and thrombosis,I740,Embolism and thrombosis of abdominal aorta
+Embolism or thrombosis of aorta,Arterial embolism and thrombosis,I741,Embolism and thrombosis of other and unspecified parts of aorta
+Embolism or thrombosis of arteries of lower extremity,Arterial embolism and thrombosis,I743,Embolism and thrombosis of arteries of lower extremities
+Embolism or thrombosis of arteries of upper extremities,Arterial embolism and thrombosis,I742,Embolism and thrombosis of arteries of upper extremities
+Embolism or thrombosis of iliac artery,Arterial embolism and thrombosis,I745,Embolism and thrombosis of iliac artery
+Embolism or thrombosis of other arteries,Arterial embolism and thrombosis,I744,"Embolism and thrombosis of arteries of extremities, unspecified"
+Embolism or thrombosis of other arteries,Arterial embolism and thrombosis,I748,Embolism and thrombosis of other arteries
+Embolism or thrombosis of other arteries,Arterial embolism and thrombosis,I749,Embolism and thrombosis of unspecified artery
+Endocarditis,"Cardiac infection, inflammation and other cardiovascular conditions",B376,Candidal endocarditis
+Endocarditis,"Cardiac infection, inflammation and other cardiovascular conditions",I011,Acute rheumatic endocarditis
+Endocarditis,"Cardiac infection, inflammation and other cardiovascular conditions",I330,Acute and subacute infective endocarditis
+Endocarditis,"Cardiac infection, inflammation and other cardiovascular conditions",I339,"Acute endocarditis, unspecified"
+Endocarditis,"Cardiac infection, inflammation and other cardiovascular conditions",I38,"Endocarditis, valve unspecified"
+Endocarditis,"Cardiac infection, inflammation and other cardiovascular conditions",I398,"Endocarditis, valve unspecified, in diseases classified elsewhere"
+Erythromelalgia and acrocyanosis,Peripheral vascular disease and other vasculitis,I738,Other specified peripheral vascular diseases
+Essential hypertension,Hypertension,I10,Essential (primary) hypertension
+Extradural haemorrhage,"Stroke, transient ischaemic attack and vascular dementia",S064,Epidural haemorrhage
+"Heart failure, reduced ejection fraction",Heart failure and cardiomyopathy,I500,Congestive heart failure
+"Heart failure, reduced ejection fraction",Heart failure and cardiomyopathy,I501,Left ventricular failure
+"Heart failure, unspecified",Heart failure and cardiomyopathy,I509,"Heart failure, unspecified"
+"Hypertension, secondary",Hypertension,I150,Renovascular hypertension
+"Hypertension, secondary",Hypertension,I151,Hypertension secondary to other renal disorders
+"Hypertension, secondary",Hypertension,I152,Hypertension secondary to endocrine disorders
+"Hypertension, secondary",Hypertension,I158,Other secondary hypertension
+"Hypertension, secondary",Hypertension,I159,"Secondary hypertension, unspecified"
+"Hypertension, secondary",Hypertension,I674,Hypertensive encephalopathy
+Hypertensive heart and/or renal disease,Hypertension,I110,Hypertensive heart disease with (congestive) heart failure
+Hypertensive heart and/or renal disease,Hypertension,I119,Hypertensive heart disease without (congestive) heart failure
+Hypertensive heart and/or renal disease,Hypertension,I120,Hypertensive renal disease with renal failure
+Hypertensive heart and/or renal disease,Hypertension,I129,Hypertensive renal disease without renal failure
+Hypertensive heart and/or renal disease,Hypertension,I130,Hypertensive heart and renal disease with (congestive) heart failure
+Hypertensive heart and/or renal disease,Hypertension,I131,Hypertensive heart and renal disease with renal failure
+Hypertensive heart and/or renal disease,Hypertension,I132,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure
+Hypertensive heart and/or renal disease,Hypertension,I139,"Hypertensive heart and renal disease, unspecified"
+Iliac artery aneurysm,Aneurysm and dissection of specified arteries,I723,Aneurysm and dissection of iliac artery
+Intracerebral haemorrhage,"Stroke, transient ischaemic attack and vascular dementia",I610,"Intracerebral haemorrhage in hemisphere, subcortical"
+Intracerebral haemorrhage,"Stroke, transient ischaemic attack and vascular dementia",I611,"Intracerebral haemorrhage in hemisphere, cortical"
+Intracerebral haemorrhage,"Stroke, transient ischaemic attack and vascular dementia",I612,"Intracerebral haemorrhage in hemisphere, unspecified"
+Intracerebral haemorrhage,"Stroke, transient ischaemic attack and vascular dementia",I613,Intracerebral haemorrhage in brain stem
+Intracerebral haemorrhage,"Stroke, transient ischaemic attack and vascular dementia",I614,Intracerebral haemorrhage in cerebellum
+Intracerebral haemorrhage,"Stroke, transient ischaemic attack and vascular dementia",I615,"Intracerebral haemorrhage, intraventricular"
+Intracerebral haemorrhage,"Stroke, transient ischaemic attack and vascular dementia",I616,"Intracerebral haemorrhage, multiple localized"
+Intracerebral haemorrhage,"Stroke, transient ischaemic attack and vascular dementia",I618,Other intracerebral haemorrhage
+Intracerebral haemorrhage,"Stroke, transient ischaemic attack and vascular dementia",I619,"Intracerebral haemorrhage, unspecified"
+Intracerebral haemorrhage,"Stroke, transient ischaemic attack and vascular dementia",I680,Cerebral amyloid angiopathy
+Intracerebral haemorrhage,"Stroke, transient ischaemic attack and vascular dementia",I691,Sequelae of intracerebral haemorrhage
+"Intracranial haemorrhage (non-traumatic), unspecified","Stroke, transient ischaemic attack and vascular dementia",I629,"Intracranial haemorrhage (nontraumatic), unspecified"
+"Intracranial haemorrhage (non-traumatic), unspecified","Stroke, transient ischaemic attack and vascular dementia",I692,Sequelae of other nontraumatic intracranial haemorrhage
+Intracranial venous thrombosis,"Stroke, transient ischaemic attack and vascular dementia",I676,Nonpyogenic thrombosis of intracranial venous system
+Ischaemic stroke,"Stroke, transient ischaemic attack and vascular dementia",G460,Middle cerebral artery syndrome
+Ischaemic stroke,"Stroke, transient ischaemic attack and vascular dementia",G461,Anterior cerebral artery syndrome
+Ischaemic stroke,"Stroke, transient ischaemic attack and vascular dementia",G462,Posterior cerebral artery syndrome
+Ischaemic stroke,"Stroke, transient ischaemic attack and vascular dementia",G463,Brain stem stroke syndrome
+Ischaemic stroke,"Stroke, transient ischaemic attack and vascular dementia",G464,Cerebellar stroke syndrome
+Ischaemic stroke,"Stroke, transient ischaemic attack and vascular dementia",G465,Pure motor lacunar syndrome
+Ischaemic stroke,"Stroke, transient ischaemic attack and vascular dementia",G466,Pure sensory lacunar syndrome
+Ischaemic stroke,"Stroke, transient ischaemic attack and vascular dementia",G467,Other lacunar syndromes
+Ischaemic stroke,"Stroke, transient ischaemic attack and vascular dementia",I630,Cerebral infarction due to thrombosis of precerebral arteries
+Ischaemic stroke,"Stroke, transient ischaemic attack and vascular dementia",I631,Cerebral infarction due to embolism of precerebral arteries
+Ischaemic stroke,"Stroke, transient ischaemic attack and vascular dementia",I632,Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries
+Ischaemic stroke,"Stroke, transient ischaemic attack and vascular dementia",I633,Cerebral infarction due to thrombosis of cerebral arteries
+Ischaemic stroke,"Stroke, transient ischaemic attack and vascular dementia",I634,Cerebral infarction due to embolism of cerebral arteries
+Ischaemic stroke,"Stroke, transient ischaemic attack and vascular dementia",I635,Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries
+Ischaemic stroke,"Stroke, transient ischaemic attack and vascular dementia",I636,"Cerebral infarction due to cerebral venous thrombosis, nonpyogenic"
+Ischaemic stroke,"Stroke, transient ischaemic attack and vascular dementia",I638,Other cerebral infarction
+Ischaemic stroke,"Stroke, transient ischaemic attack and vascular dementia",I639,"Cerebral infarction, unspecified"
+Ischaemic stroke,"Stroke, transient ischaemic attack and vascular dementia",I650,Occlusion and stenosis of vertebral artery
+Ischaemic stroke,"Stroke, transient ischaemic attack and vascular dementia",I651,Occlusion and stenosis of basilar artery
+Ischaemic stroke,"Stroke, transient ischaemic attack and vascular dementia",I652,Occlusion and stenosis of carotid artery
+Ischaemic stroke,"Stroke, transient ischaemic attack and vascular dementia",I653,Occlusion and stenosis of multiple and bilateral precerebral arteries
+Ischaemic stroke,"Stroke, transient ischaemic attack and vascular dementia",I658,Occlusion and stenosis of other precerebral artery
+Ischaemic stroke,"Stroke, transient ischaemic attack and vascular dementia",I659,Occlusion and stenosis of unspecified precerebral artery
+Ischaemic stroke,"Stroke, transient ischaemic attack and vascular dementia",I660,Occlusion and stenosis of middle cerebral artery
+Ischaemic stroke,"Stroke, transient ischaemic attack and vascular dementia",I661,Occlusion and stenosis of anterior cerebral artery
+Ischaemic stroke,"Stroke, transient ischaemic attack and vascular dementia",I662,Occlusion and stenosis of posterior cerebral artery
+Ischaemic stroke,"Stroke, transient ischaemic attack and vascular dementia",I663,Occlusion and stenosis of cerebellar arteries
+Ischaemic stroke,"Stroke, transient ischaemic attack and vascular dementia",I664,Occlusion and stenosis of multiple and bilateral cerebral arteries
+Ischaemic stroke,"Stroke, transient ischaemic attack and vascular dementia",I668,Occlusion and stenosis of other cerebral artery
+Ischaemic stroke,"Stroke, transient ischaemic attack and vascular dementia",I669,Occlusion and stenosis of unspecified cerebral artery
+Ischaemic stroke,"Stroke, transient ischaemic attack and vascular dementia",I672,Cerebral atherosclerosis
+Ischaemic stroke,"Stroke, transient ischaemic attack and vascular dementia",I675,Moyamoya disease
+Ischaemic stroke,"Stroke, transient ischaemic attack and vascular dementia",I678,Other specified cerebrovascular diseases
+Ischaemic stroke,"Stroke, transient ischaemic attack and vascular dementia",I679,"Cerebrovascular disease, unspecified"
+Ischaemic stroke,"Stroke, transient ischaemic attack and vascular dementia",I681,Cerebral arteritis in infectious and parasitic diseases classified elsewhere
+Ischaemic stroke,"Stroke, transient ischaemic attack and vascular dementia",I682,Cerebral arteritis in other diseases classified elsewhere
+Ischaemic stroke,"Stroke, transient ischaemic attack and vascular dementia",I693,Sequelae of cerebral infarction
+Mitral valve disease,Cardiac valve diseases,I050,Mitral stenosis
+Mitral valve disease,Cardiac valve diseases,I051,Rheumatic mitral insufficiency
+Mitral valve disease,Cardiac valve diseases,I052,Mitral stenosis with insufficiency
+Mitral valve disease,Cardiac valve diseases,I058,Other mitral valve diseases
+Mitral valve disease,Cardiac valve diseases,I059,"Mitral valve disease, unspecified"
+Mitral valve disease,Cardiac valve diseases,I340,Mitral (valve) insufficiency
+Mitral valve disease,Cardiac valve diseases,I341,Mitral (valve) prolapse
+Mitral valve disease,Cardiac valve diseases,I342,Nonrheumatic mitral (valve) stenosis
+Mitral valve disease,Cardiac valve diseases,I348,Other nonrheumatic mitral valve disorders
+Mitral valve disease,Cardiac valve diseases,I349,"Nonrheumatic mitral valve disorder, unspecified"
+Mitral valve disease,Cardiac valve diseases,I390,Mitral valve disorders in diseases classified elsewhere
+Multiple valve disease,Cardiac valve diseases,I080,Disorders of both mitral and aortic valves
+Multiple valve disease,Cardiac valve diseases,I081,Disorders of both mitral and tricuspid valves
+Multiple valve disease,Cardiac valve diseases,I082,Disorders of both aortic and tricuspid valves
+Multiple valve disease,Cardiac valve diseases,I083,"Combined disorders of mitral, aortic and tricuspid valves"
+Multiple valve disease,Cardiac valve diseases,I088,Other multiple valve diseases
+Multiple valve disease,Cardiac valve diseases,I089,"Multiple valve disease, unspecified"
+Multiple valve disease,Cardiac valve diseases,I394,Multiple valve disorders in diseases classified elsewhere
+Myocardial infarction,Ischaemic heart disease,I210,Acute transmural myocardial infarction of anterior wall
+Myocardial infarction,Ischaemic heart disease,I211,Acute transmural myocardial infarction of inferior wall
+Myocardial infarction,Ischaemic heart disease,I212,Acute transmural myocardial infarction of other sites
+Myocardial infarction,Ischaemic heart disease,I213,Acute transmural myocardial infarction of unspecified site
+Myocardial infarction,Ischaemic heart disease,I214,Acute subendocardial myocardial infarction
+Myocardial infarction,Ischaemic heart disease,I219,"Acute myocardial infarction, unspecified"
+Myocardial infarction,Ischaemic heart disease,I220,Subsequent myocardial infarction of anterior wall
+Myocardial infarction,Ischaemic heart disease,I221,Subsequent myocardial infarction of inferior wall
+Myocardial infarction,Ischaemic heart disease,I228,Subsequent myocardial infarction of other sites
+Myocardial infarction,Ischaemic heart disease,I229,Subsequent myocardial infarction of unspecified site
+Myocardial infarction,Ischaemic heart disease,I230,Haemopericardium as current complication following acute myocardial infarction
+Myocardial infarction,Ischaemic heart disease,I231,Atrial septal defect as current complication following acute myocardial infarction
+Myocardial infarction,Ischaemic heart disease,I232,Ventricular septal defect as current complication following acute myocardial infarction
+Myocardial infarction,Ischaemic heart disease,I233,Rupture of cardiac wall without haemopericardium as current complication following acute myocardial infarction
+Myocardial infarction,Ischaemic heart disease,I234,Rupture of chordae tendineae as current complication following acute myocardial infarction
+Myocardial infarction,Ischaemic heart disease,I235,Rupture of papillary muscle as current complication following acute myocardial infarction
+Myocardial infarction,Ischaemic heart disease,I236,"Thrombosis of atrium, auricular appendage, and ventricle as current complications following acute myocardial infarction"
+Myocardial infarction,Ischaemic heart disease,I238,Other current complications following acute myocardial infarction
+Myocardial infarction,Ischaemic heart disease,I241,Dressler syndrome
+Myocardial infarction,Ischaemic heart disease,I252,Old myocardial infarction
+Myocardial infarction,Ischaemic heart disease,I510,"Cardiac septal defect, acquired"
+Myocardial infarction,Ischaemic heart disease,I511,"Rupture of chordae tendineae, not elsewhere classified"
+Myocardial infarction,Ischaemic heart disease,I512,"Rupture of papillary muscle, not elsewhere classified"
+Myocardial infarction,Ischaemic heart disease,I513,"Intracardiac thrombosis, not elsewhere classified"
+Myocarditis,"Cardiac infection, inflammation and other cardiovascular conditions",I012,Acute rheumatic myocarditis
+Myocarditis,"Cardiac infection, inflammation and other cardiovascular conditions",I090,Rheumatic myocarditis
+Myocarditis,"Cardiac infection, inflammation and other cardiovascular conditions",I400,Infective myocarditis
+Myocarditis,"Cardiac infection, inflammation and other cardiovascular conditions",I401,Isolated myocarditis
+Myocarditis,"Cardiac infection, inflammation and other cardiovascular conditions",I408,Other acute myocarditis
+Myocarditis,"Cardiac infection, inflammation and other cardiovascular conditions",I409,"Acute myocarditis, unspecified"
+Myocarditis,"Cardiac infection, inflammation and other cardiovascular conditions",I410,Myocarditis in bacterial diseases classified elsewhere
+Myocarditis,"Cardiac infection, inflammation and other cardiovascular conditions",I411,Myocarditis in viral diseases classified elsewhere
+Myocarditis,"Cardiac infection, inflammation and other cardiovascular conditions",I412,Myocarditis in other infectious and parasitic diseases classified elsewhere
+Myocarditis,"Cardiac infection, inflammation and other cardiovascular conditions",I418,Myocarditis in other diseases classified elsewhere
+Myocarditis,"Cardiac infection, inflammation and other cardiovascular conditions",I514,"Myocarditis, unspecified"
+Nontraumatic extradural haemorrhage,"Stroke, transient ischaemic attack and vascular dementia",I621,Nontraumatic extradural haemorrhage
+Occlusion and stenosis of carotid artery,"Stroke, transient ischaemic attack and vascular dementia",I652,Occlusion and stenosis of carotid artery
+Other peripheral angiopathies,Peripheral vascular disease and other vasculitis,I791,Aortitis in diseases classified elsewhere
+Other peripheral angiopathies,Peripheral vascular disease and other vasculitis,I792,Peripheral angiopathy in diseases classified elsewhere
+Other peripheral angiopathies,Peripheral vascular disease and other vasculitis,I798,"Other disorders of arteries, arterioles and capillaries in diseases classified elsewhere"
+Paroxysmal supraventricular tachycardia,Cardiac dysrhythmias,I471,Supraventricular tachycardia
+Paroxysmal supraventricular tachycardia,Cardiac dysrhythmias,I492,Junctional premature depolarization
+Paroxysmal ventricular tachycardia,Cardiac dysrhythmias,I470,Re-entry ventricular arrhythmia
+Paroxysmal ventricular tachycardia,Cardiac dysrhythmias,I472,Ventricular tachycardia
+"Pericardial effusion, non-inflammatory","Cardiac infection, inflammation and other cardiovascular conditions",I313,Pericardial effusion (noninflammatory)
+"Peripheral vascular disease, unspecified",Peripheral vascular disease and other vasculitis,I739,"Peripheral vascular disease, unspecified"
+Pre-excitation syndromes,Cardiac conduction disorders,I456,Pre-excitation syndrome
+Primary pulmonary hypertension,Pulmonary vessel disorders,I270,Primary pulmonary hypertension
+Pulmonary embolism,Pulmonary vessel disorders,I260,Pulmonary embolism with mention of acute cor pulmonale
+Pulmonary embolism,Pulmonary vessel disorders,I269,Pulmonary embolism without mention of acute cor pulmonale
+"Pulmonary heart disease, unspecified",Pulmonary vessel disorders,I279,"Pulmonary heart disease, unspecified"
+"Pulmonary hypertension, unspecified",Pulmonary vessel disorders,I272,Other secondary pulmonary hypertension
+Pulmonary valve disease,Cardiac valve diseases,I098,Other specified rheumatic heart diseases
+Pulmonary valve disease,Cardiac valve diseases,I370,Pulmonary valve stenosis
+Pulmonary valve disease,Cardiac valve diseases,I371,Pulmonary valve insufficiency
+Pulmonary valve disease,Cardiac valve diseases,I372,Pulmonary valve stenosis with insufficiency
+Pulmonary valve disease,Cardiac valve diseases,I378,Other pulmonary valve disorders
+Pulmonary valve disease,Cardiac valve diseases,I379,"Pulmonary valve disorder, unspecified"
+Pulmonary valve disease,Cardiac valve diseases,I393,Pulmonary valve disorders in diseases classified elsewhere
+Raynaud's syndrome,Peripheral vascular disease and other vasculitis,I730,Raynaud syndrome
+"Stroke, unspecified","Stroke, transient ischaemic attack and vascular dementia",G468,Other vascular syndromes of brain in cerebrovascular diseases
+"Stroke, unspecified","Stroke, transient ischaemic attack and vascular dementia",I64,"Stroke, not specified as haemorrhage or infarction"
+"Stroke, unspecified","Stroke, transient ischaemic attack and vascular dementia",I688,Other cerebrovascular disorders in diseases classified elsewhere
+"Stroke, unspecified","Stroke, transient ischaemic attack and vascular dementia",I694,"Sequelae of stroke, not specified as haemorrhage or infarction"
+"Stroke, unspecified","Stroke, transient ischaemic attack and vascular dementia",I698,Sequelae of other and unspecified cerebrovascular diseases
+Subarachnoid haemorrhage,"Stroke, transient ischaemic attack and vascular dementia",I600,Subarachnoid haemorrhage from carotid siphon and bifurcation
+Subarachnoid haemorrhage,"Stroke, transient ischaemic attack and vascular dementia",I601,Subarachnoid haemorrhage from middle cerebral artery
+Subarachnoid haemorrhage,"Stroke, transient ischaemic attack and vascular dementia",I602,Subarachnoid haemorrhage from anterior communicating artery
+Subarachnoid haemorrhage,"Stroke, transient ischaemic attack and vascular dementia",I603,Subarachnoid haemorrhage from posterior communicating artery
+Subarachnoid haemorrhage,"Stroke, transient ischaemic attack and vascular dementia",I604,Subarachnoid haemorrhage from basilar artery
+Subarachnoid haemorrhage,"Stroke, transient ischaemic attack and vascular dementia",I605,Subarachnoid haemorrhage from vertebral artery
+Subarachnoid haemorrhage,"Stroke, transient ischaemic attack and vascular dementia",I606,Subarachnoid haemorrhage from other intracranial arteries
+Subarachnoid haemorrhage,"Stroke, transient ischaemic attack and vascular dementia",I607,"Subarachnoid haemorrhage from intracranial artery, unspecified"
+Subarachnoid haemorrhage,"Stroke, transient ischaemic attack and vascular dementia",I608,Other subarachnoid haemorrhage
+Subarachnoid haemorrhage,"Stroke, transient ischaemic attack and vascular dementia",I609,"Subarachnoid haemorrhage, unspecified"
+Subarachnoid haemorrhage,"Stroke, transient ischaemic attack and vascular dementia",I690,Sequelae of subarachnoid haemorrhage
+Subdural haemorrhage,"Stroke, transient ischaemic attack and vascular dementia",I620,Subdural haemorrhage (acute)(nontraumatic)
+Syncope due to other arrhythmia,Cardiac conduction disorders,I459,"Conduction disorder, unspecified"
+Transient global amnesia,"Stroke, transient ischaemic attack and vascular dementia",G454,Transient global amnesia
+Transient ischaemic attack,"Stroke, transient ischaemic attack and vascular dementia",G450,Vertebro-basilar artery syndrome
+Transient ischaemic attack,"Stroke, transient ischaemic attack and vascular dementia",G451,Carotid artery syndrome (hemispheric)
+Transient ischaemic attack,"Stroke, transient ischaemic attack and vascular dementia",G452,Multiple and bilateral precerebral artery syndromes
+Transient ischaemic attack,"Stroke, transient ischaemic attack and vascular dementia",G458,Other transient cerebral ischaemic attacks and related syndromes
+Transient ischaemic attack,"Stroke, transient ischaemic attack and vascular dementia",G459,"Transient cerebral ischaemic attack, unspecified"
+Tricuspid valve disease,Cardiac valve diseases,I070,Tricuspid stenosis
+Tricuspid valve disease,Cardiac valve diseases,I071,Tricuspid insufficiency
+Tricuspid valve disease,Cardiac valve diseases,I072,Tricuspid stenosis with insufficiency
+Tricuspid valve disease,Cardiac valve diseases,I078,Other tricuspid valve diseases
+Tricuspid valve disease,Cardiac valve diseases,I079,"Tricuspid valve disease, unspecified"
+Tricuspid valve disease,Cardiac valve diseases,I360,Nonrheumatic tricuspid (valve) stenosis
+Tricuspid valve disease,Cardiac valve diseases,I361,Nonrheumatic tricuspid (valve) insufficiency
+Tricuspid valve disease,Cardiac valve diseases,I362,Nonrheumatic tricuspid (valve) stenosis with insufficiency
+Tricuspid valve disease,Cardiac valve diseases,I368,Other nonrheumatic tricuspid valve disorders
+Tricuspid valve disease,Cardiac valve diseases,I369,"Nonrheumatic tricuspid valve disorder, unspecified"
+Tricuspid valve disease,Cardiac valve diseases,I392,Tricuspid valve disorders in diseases classified elsewhere
+Unruptured cerebral aneurysm,"Stroke, transient ischaemic attack and vascular dementia",I671,"Cerebral aneurysm, nonruptured"
+Unstable angina,Ischaemic heart disease,I200,Unstable angina
+Varicose veins,Vein disorders,I830,Varicose veins of lower extremities with ulcer
+Varicose veins,Vein disorders,I831,Varicose veins of lower extremities with inflammation
+Varicose veins,Vein disorders,I832,Varicose veins of lower extremities with both ulcer and inflammation
+Varicose veins,Vein disorders,I839,Varicose veins of lower extremities without ulcer or inflammation
+Varicose veins,Vein disorders,I860,Sublingual varices
+Varicose veins,Vein disorders,I861,Scrotal varices
+Varicose veins,Vein disorders,I862,Pelvic varices
+Varicose veins,Vein disorders,I863,Vulval varices
+Varicose veins,Vein disorders,I868,Varicose veins of other specified sites
+Vascular dementia,"Stroke, transient ischaemic attack and vascular dementia",F010,Vascular dementia of acute onset
+Vascular dementia,"Stroke, transient ischaemic attack and vascular dementia",F011,Multi-infarct dementia
+Vascular dementia,"Stroke, transient ischaemic attack and vascular dementia",F012,Subcortical vascular dementia
+Vascular dementia,"Stroke, transient ischaemic attack and vascular dementia",F013,Mixed cortical and subcortical vascular dementia
+Vascular dementia,"Stroke, transient ischaemic attack and vascular dementia",F018,Other vascular dementia
+Vascular dementia,"Stroke, transient ischaemic attack and vascular dementia",F019,"Vascular dementia, unspecified"
+Vascular insufficiency of intestine,Atherosclerosis,K550,Acute vascular disorders of intestine
+Vascular insufficiency of intestine,Atherosclerosis,K551,Chronic vascular disorders of intestine
+Vascular insufficiency of intestine,Atherosclerosis,K558,Other vascular disorders of intestine
+Vascular insufficiency of intestine,Atherosclerosis,K559,"Vascular disorder of intestine, unspecified"
+Vasculitis,Arterial embolism and thrombosis,I677,"Cerebral arteritis, not elsewhere classified"
+Vasculitis,Arterial embolism and thrombosis,I731,Thromboangiitis obliterans Buerger
+Vasculitis,Arterial embolism and thrombosis,I776,"Arteritis, unspecified"
+Vasculitis,Arterial embolism and thrombosis,M300,Polyarteritis nodosa
+Vasculitis,Arterial embolism and thrombosis,M301,Polyarteritis with lung involvement Churg-Strauss
+Vasculitis,Arterial embolism and thrombosis,M302,Juvenile polyarteritis
+Vasculitis,Arterial embolism and thrombosis,M303,Mucocutaneous lymph node syndrome Kawasaki
+Vasculitis,Arterial embolism and thrombosis,M308,Other conditions related to polyarteritis nodosa
+Vasculitis,Arterial embolism and thrombosis,M310,Hypersensitivity angiitis
+Vasculitis,Arterial embolism and thrombosis,M311,Thrombotic microangiopathy
+Vasculitis,Arterial embolism and thrombosis,M312,Lethal midline granuloma
+Vasculitis,Arterial embolism and thrombosis,M313,Wegener granulomatosis
+Vasculitis,Arterial embolism and thrombosis,M314,Aortic arch syndrome Takayasu
+Vasculitis,Arterial embolism and thrombosis,M315,Giant cell arteritis with polymyalgia rheumatica
+Vasculitis,Arterial embolism and thrombosis,M316,Other giant cell arteritis
+Vasculitis,Arterial embolism and thrombosis,M317,Microscopic polyangiitis
+"Venous thrombosis, lower extremities",Vein disorders,I800,Phlebitis and thrombophlebitis of superficial vessels of lower extremities
+"Venous thrombosis, lower extremities",Vein disorders,I801,Phlebitis and thrombophlebitis of femoral vein
+"Venous thrombosis, lower extremities",Vein disorders,I802,Phlebitis and thrombophlebitis of other deep vessels of lower extremities
+"Venous thrombosis, lower extremities",Vein disorders,I803,"Phlebitis and thrombophlebitis of lower extremities, unspecified"
+"Venous thrombosis, lower extremities",Vein disorders,I809,Phlebitis and thrombophlebitis of unspecified site
+"Venous thrombosis, other",Vein disorders,I808,Phlebitis and thrombophlebitis of other sites
+"Venous thrombosis, other",Vein disorders,I81,Portal vein thrombosis
+"Venous thrombosis, other",Vein disorders,I820,Budd-Chiari syndrome
+"Venous thrombosis, other",Vein disorders,I821,Thrombophlebitis migrans
+"Venous thrombosis, other",Vein disorders,I822,Embolism and thrombosis of vena cava
+"Venous thrombosis, other",Vein disorders,I823,Embolism and thrombosis of renal vein
+"Venous thrombosis, other",Vein disorders,I828,Embolism and thrombosis of other specified veins
+"Venous thrombosis, other",Vein disorders,I829,Embolism and thrombosis of unspecified vein
+"Venous thrombosis, other",Vein disorders,I870,Postthrombotic syndrome
+Ventricular fibrillation or flutter,Cardiac dysrhythmias,I490,Ventricular fibrillation and flutter

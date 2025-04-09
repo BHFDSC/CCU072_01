@@ -1,0 +1,204 @@
+dcode_name,dcode_group,epcc_code,epcc_code_name
+Essential hypertension,Hypertension,101402,Primary (essential) systemic hypertension
+"Hypertension, secondary",Hypertension,101400,Secondary systemic hypertension
+"Hypertension, secondary",Hypertension,101404,Systemic hypertension due to aortic arch obstruction
+Myocardial infarction,Ischaemic heart disease,101826,Acute coronary syndrome: myocardial infarct with ST elevation (STEMI)
+Myocardial infarction,Ischaemic heart disease,101801,Acute myocardial infarction
+Myocardial infarction,Ischaemic heart disease,101800,Myocardial infarction
+Myocardial infarction,Ischaemic heart disease,101662,Postmyocardial infarct ventricular septal defect (VSD)
+Myocardial infarction,Ischaemic heart disease,101824,Postmyocardial infarction complication
+Myocardial infarction,Ischaemic heart disease,101827,Acute coronary syndrome: myocardial infarct without ST elevation (NSTEMI)
+Angina pectoris,Ischaemic heart disease,101251,Angina pectoris
+Coronary atherosclerosis,Ischaemic heart disease,100930,Ischaemic heart disease
+Coronary atherosclerosis,Ischaemic heart disease,100953,Chronic total occlusion of coronary artery
+Primary pulmonary hypertension,Pulmonary vessel disorders,101302,Idiopathic (primary) pulmonary hypertension
+Myocarditis,"Cardiac infection, inflammation and other cardiovascular conditions",100710,Rickettsial myocarditis
+Myocarditis,"Cardiac infection, inflammation and other cardiovascular conditions",100704,Bacterial myocarditis
+Myocarditis,"Cardiac infection, inflammation and other cardiovascular conditions",101142,Myocarditis due to Kawasaki disease
+Myocarditis,"Cardiac infection, inflammation and other cardiovascular conditions",100976,Dilated cardiomyopathy due to systemic autoimmune disorder
+Myocarditis,"Cardiac infection, inflammation and other cardiovascular conditions",101141,Non-infectious inflammatory dilated cardiomyopathy
+Myocarditis,"Cardiac infection, inflammation and other cardiovascular conditions",100728,Parasitic myocarditis
+Myocarditis,"Cardiac infection, inflammation and other cardiovascular conditions",100709,Protozoal myocarditis
+Myocarditis,"Cardiac infection, inflammation and other cardiovascular conditions",100701,Infectious myocarditis
+Myocarditis,"Cardiac infection, inflammation and other cardiovascular conditions",100703,Viral myocarditis
+Myocarditis,"Cardiac infection, inflammation and other cardiovascular conditions",100707,Fungal myocarditis
+Myocarditis,"Cardiac infection, inflammation and other cardiovascular conditions",100790,Myocarditis (inflammatory cardiomyopathy)
+Myocarditis,"Cardiac infection, inflammation and other cardiovascular conditions",100755,Dilated cardiomyopathy due to toxin exposure (toxic myocarditis)
+Acute pericarditis,"Cardiac infection, inflammation and other cardiovascular conditions",100803,Viral pericarditis
+Acute pericarditis,"Cardiac infection, inflammation and other cardiovascular conditions",100804,Bacterial pericarditis
+Acute pericarditis,"Cardiac infection, inflammation and other cardiovascular conditions",100801,Infectious pericarditis
+Endocarditis,"Cardiac infection, inflammation and other cardiovascular conditions",100689,Endocarditis of neopulmonary valve
+Endocarditis,"Cardiac infection, inflammation and other cardiovascular conditions",100600,Endocarditis
+Endocarditis,"Cardiac infection, inflammation and other cardiovascular conditions",100609,Infective endocarditis of pulmonary valve
+Endocarditis,"Cardiac infection, inflammation and other cardiovascular conditions",100613,Endocarditis of left atrioventricular valve
+Endocarditis,"Cardiac infection, inflammation and other cardiovascular conditions",100601,Infective endocarditis
+Endocarditis,"Cardiac infection, inflammation and other cardiovascular conditions",100612,Endocarditis of right atrioventricular valve
+Endocarditis,"Cardiac infection, inflammation and other cardiovascular conditions",100688,Endocarditis of truncal valve or neo-aortic valve of truncal origin
+Endocarditis,"Cardiac infection, inflammation and other cardiovascular conditions",100614,Endocarditis of common atrioventricular valve
+Endocarditis,"Cardiac infection, inflammation and other cardiovascular conditions",100608,Infective endocarditis of tricuspid valve
+Endocarditis,"Cardiac infection, inflammation and other cardiovascular conditions",100664,Postprocedural endocarditis
+Endocarditis,"Cardiac infection, inflammation and other cardiovascular conditions",100665,Preprocedural endocarditis
+Endocarditis,"Cardiac infection, inflammation and other cardiovascular conditions",100690,Endocarditis of the neo-aortic valve of pulmonary origin
+Endocarditis,"Cardiac infection, inflammation and other cardiovascular conditions",100611,Infective endocarditis of aortic valve
+Endocarditis,"Cardiac infection, inflammation and other cardiovascular conditions",100641,Bacterial endocarditis
+Endocarditis,"Cardiac infection, inflammation and other cardiovascular conditions",100610,Infective endocarditis of mitral valve
+Atrioventricular block,Cardiac conduction disorders,110635,Preprocedural complete atrioventricular block
+Atrioventricular block,Cardiac conduction disorders,110602,1st degree atrioventricular block
+Atrioventricular block,Cardiac conduction disorders,110632,Procedure related complete atrioventricular block requiring temporary pacing
+Atrioventricular block,Cardiac conduction disorders,110617,Postprocedural complete AV block
+Atrioventricular block,Cardiac conduction disorders,110601,Sinoatrial block
+Atrioventricular block,Cardiac conduction disorders,110632,Procedure related complete AV block requiring temporary pacing
+Atrioventricular block,Cardiac conduction disorders,110633,Procedure related complete atrioventricular block requiring permanent pacemaker system
+Atrioventricular block,Cardiac conduction disorders,110633,Procedure related complete AV block requiring permanent pacemaker system
+Atrioventricular block,Cardiac conduction disorders,110617,Postprocedural complete atrioventricular block
+Atrioventricular block,Cardiac conduction disorders,110603,2nd degree atrioventricular block
+Atrioventricular block,Cardiac conduction disorders,110610,Acquired complete atrioventricular block
+Atrioventricular block,Cardiac conduction disorders,110607,Complete atrioventricular block (3rd degree)
+Pre-excitation syndromes,Cardiac conduction disorders,110711,Manifest accessory pathway
+Pre-excitation syndromes,Cardiac conduction disorders,110722,Atrioventricular reciprocating (reentry) tachycardia: orthodromic
+Pre-excitation syndromes,Cardiac conduction disorders,110701,Atrioventricular reciprocating (reentry) tachycardia: manifest preexcitation in sinus rhythm (Wolff Parkinson White)
+Pre-excitation syndromes,Cardiac conduction disorders,110726,Multiple accessory pathways
+Pre-excitation syndromes,Cardiac conduction disorders,110728,Atrioventricular reentry (reciprocating) tachycardia: orthodromic & antidromic
+Pre-excitation syndromes,Cardiac conduction disorders,110723,Atrioventricular reentry (reciprocating) tachycardia: antidromic (typically wide QRS)
+Pre-excitation syndromes,Cardiac conduction disorders,110729,Atrioventricular reciprocating (reentry) tachycardia (accessory pathway mediated)
+"Atrioventricular dissociation, interference dissociation, and long QT syndrome",Cardiac conduction disorders,111229,Long QT syndrome
+"Atrioventricular dissociation, interference dissociation, and long QT syndrome",Cardiac conduction disorders,111201,Prolonged QT interval
+Paroxysmal supraventricular tachycardia,Cardiac dysrhythmias,110312,Ectopic atrial tachycardia
+Paroxysmal supraventricular tachycardia,Cardiac dysrhythmias,110315,Multifocal atrial tachycardia (chaotic)
+Paroxysmal supraventricular tachycardia,Cardiac dysrhythmias,110305,Paroxysmal atrial tachycardia
+Paroxysmal supraventricular tachycardia,Cardiac dysrhythmias,110407,Atrioventricular junctional (nodal) tachycardia
+Paroxysmal supraventricular tachycardia,Cardiac dysrhythmias,110442,Junctional ectopic tachycardia (His bundle)
+Paroxysmal ventricular tachycardia,Cardiac dysrhythmias,110550,Non-sustained ventricular tachycardia
+Paroxysmal ventricular tachycardia,Cardiac dysrhythmias,110506,Ventricular tachycardia
+Paroxysmal ventricular tachycardia,Cardiac dysrhythmias,110584,Idiopathic fascicular ventricular tachycardia
+Paroxysmal ventricular tachycardia,Cardiac dysrhythmias,110557,Macroreentrant ventricular tachycardia
+Paroxysmal ventricular tachycardia,Cardiac dysrhythmias,110556,Focal ventricular tachycardia
+Atrial fibrillation or flutter,Cardiac dysrhythmias,110366,Cavotricuspid isthmus dependent atrial tachycardia (including atrial flutter)
+Atrial fibrillation or flutter,Cardiac dysrhythmias,110308,Atrial fibrillation
+Atrial fibrillation or flutter,Cardiac dysrhythmias,110307,Atrial flutter
+Ventricular fibrillation or flutter,Cardiac dysrhythmias,110509,Ventricular flutter
+Ventricular fibrillation or flutter,Cardiac dysrhythmias,110510,Ventricular fibrillation
+Cardiac arrest,Cardiac dysrhythmias,110021,Cardiac arrest
+Cardiac arrest,Cardiac dysrhythmias,102033,Preprocedural cardiopulmonary resuscitation (less than 48 hours)
+"Heart failure, unspecified",Heart failure and cardiomyopathy,101705,Heart failure
+Vascular insufficiency of intestine,Atherosclerosis,158230,Postprocedural necrotising enterocolitis
+Vascular insufficiency of intestine,Atherosclerosis,158375,Postprocedural necrotising enterocolitis: established requiring treatment
+"Peripheral vascular disease, unspecified",Peripheral vascular disease and other vasculitis,092020,Distal systemic arterial abnormality
+Vasculitis,Arterial embolism and thrombosis,100908,Kawasaki disease without cardiac involvement
+Vasculitis,Arterial embolism and thrombosis,100901,Kawasaki disease
+Vasculitis,Arterial embolism and thrombosis,100902,Kawasaki disease with aneurysm(s) or dilated coronary vessels
+Vasculitis,Arterial embolism and thrombosis,101460,Systemic arteritis
+Cardiomyopathy,Heart failure and cardiomyopathy,101133,Dilated cardiomyopathy due to lysosomal storage disorder
+Cardiomyopathy,Heart failure and cardiomyopathy,101001,Cardiomyopathy
+Cardiomyopathy,Heart failure and cardiomyopathy,101145,Syndromic hypertrophic cardiomyopathy
+Cardiomyopathy,Heart failure and cardiomyopathy,101132,Dilated cardiomyopathy due to primary carnitine deficiency
+Cardiomyopathy,Heart failure and cardiomyopathy,100751,Dilated cardiomyopathy due to anthracycline toxicity
+Cardiomyopathy,Heart failure and cardiomyopathy,101140,Nonfamilial dilated cardiomyopathy
+Cardiomyopathy,Heart failure and cardiomyopathy,101130,Dilated cardiomyopathy due to laminopathy (LMNA)
+Cardiomyopathy,Heart failure and cardiomyopathy,101144,Premature ventricular complex mediated dilated cardiomyopathy
+Cardiomyopathy,Heart failure and cardiomyopathy,101146,Hypertrophic cardiomyopathy due to lysosomal storage disease
+Cardiomyopathy,Heart failure and cardiomyopathy,101070,Nonobstructive hypertrophic cardiomyopathy
+Cardiomyopathy,Heart failure and cardiomyopathy,101010,Restrictive cardiomyopathy
+Cardiomyopathy,Heart failure and cardiomyopathy,070850,Ventricular myocardial noncompaction cardiomyopathy
+Cardiomyopathy,Heart failure and cardiomyopathy,070850,Noncompaction cardiomyopathy
+Cardiomyopathy,Heart failure and cardiomyopathy,070110,Arrhythmogenic right ventricular cardiomyopathy
+Cardiomyopathy,Heart failure and cardiomyopathy,070110,Arrhythmogenic ventricular cardiomyopathy with right ventricular dominance
+Cardiomyopathy,Heart failure and cardiomyopathy,100705,Drug induced heart muscle disease
+Cardiomyopathy,Heart failure and cardiomyopathy,100745,Pacemaker mediated dilated cardiomyopathy
+Cardiomyopathy,Heart failure and cardiomyopathy,101049,Endomyocardial fibrosis
+Cardiomyopathy,Heart failure and cardiomyopathy,101165,Noncompaction cardiomyopathy associated with congenital heart disease
+Cardiomyopathy,Heart failure and cardiomyopathy,101071,Obstructive hypertrophic cardiomyopathy
+Cardiomyopathy,Heart failure and cardiomyopathy,101011,Idiopathic restrictive cardiomyopathy
+Cardiomyopathy,Heart failure and cardiomyopathy,101072,Idiopathic isolated hypertrophic cardiomyopathy
+Cardiomyopathy,Heart failure and cardiomyopathy,101012,Endocardial fibroelastosis
+Cardiomyopathy,Heart failure and cardiomyopathy,101147,Hypertrophic cardiomyopathy due to glycogen storage disease
+Cardiomyopathy,Heart failure and cardiomyopathy,101148,Hypertrophic cardiomyopathy due to disorder of fatty acid metabolism
+Cardiomyopathy,Heart failure and cardiomyopathy,101149,Nonfamilial hypertrophic cardiomyopathy
+Cardiomyopathy,Heart failure and cardiomyopathy,101151,Dilated cardiomyopathy due to nutritional disorder
+Cardiomyopathy,Heart failure and cardiomyopathy,070901,Left ventricular outflow tract obstruction
+Cardiomyopathy,Heart failure and cardiomyopathy,101099,Arrhythmogenic ventricular cardiomyopathy
+Cardiomyopathy,Heart failure and cardiomyopathy,101154,Restrictive cardiomyopathy due to glycogen disease
+Cardiomyopathy,Heart failure and cardiomyopathy,101131,Dilated cardiomyopathy due to fatty acid oxidation disorder
+Cardiomyopathy,Heart failure and cardiomyopathy,101074,Sarcomeric hypertrophic cardiomyopathy
+Cardiomyopathy,Heart failure and cardiomyopathy,141181,Fetal cardiomyopathy
+Cardiomyopathy,Heart failure and cardiomyopathy,101020,Hypertrophic cardiomyopathy
+Cardiomyopathy,Heart failure and cardiomyopathy,101025,Dilated cardiomyopathy
+Cardiomyopathy,Heart failure and cardiomyopathy,101030,Familial-genetic hypertrophic cardiomyopathy
+Cardiomyopathy,Heart failure and cardiomyopathy,101013,Infiltrative cardiomyopathy
+Cardiomyopathy,Heart failure and cardiomyopathy,101153,Hypertrophic cardiomyopathy due to hyperinsulinemia
+Cardiomyopathy,Heart failure and cardiomyopathy,101035,Idiopathic isolated dilated cardiomyopathy
+Cardiomyopathy,Heart failure and cardiomyopathy,101156,Non-familial restrictive cardiomyopathy
+Cardiomyopathy,Heart failure and cardiomyopathy,101031,Tachycardia induced dilated cardiomyopathy
+Cardiomyopathy,Heart failure and cardiomyopathy,101083,Sarcomeric dilated cardiomyopathy
+Cardiomyopathy,Heart failure and cardiomyopathy,101088,Dilated cardiomyopathy due to mitochondrial myopathy
+Cardiomyopathy,Heart failure and cardiomyopathy,101089,X-linked infantile dilated cardiomyopathy
+Cardiomyopathy,Heart failure and cardiomyopathy,101093,Dilated cardiomyopathy due to neuromuscular disease
+Cardiomyopathy,Heart failure and cardiomyopathy,101094,Dilated cardiomyopathy due to dystrophinopathy
+Cardiomyopathy,Heart failure and cardiomyopathy,101034,Hypertrophic cardiomyopathy due to mitochondrial disorder
+Cardiomyopathy,Heart failure and cardiomyopathy,101095,Arrhythmogenic ventricular cardiomyopathy with left ventricular dominance
+Cardiomyopathy,Heart failure and cardiomyopathy,101048,Restrictive cardiomyopathy due to endomyocardial abnormality
+"Heart failure, reduced ejection fraction",Heart failure and cardiomyopathy,101647,Left ventricular failure
+Pulmonary embolism,Pulmonary vessel disorders,101351,Pulmonary embolism
+Pulmonary valve disease,Cardiac valve diseases,103501,Pulmonary valvar abnormality: acquired
+Pulmonary valve disease,Cardiac valve diseases,090515,Acquired pulmonary atresia
+Pulmonary valve disease,Cardiac valve diseases,153000,Postprocedural pulmonary valvar complication
+Pulmonary valve disease,Cardiac valve diseases,153013,Acquired abnormality of the neopulmonary valve
+Pulmonary valve disease,Cardiac valve diseases,103504,Pulmonary regurgitation: acquired
+Pulmonary valve disease,Cardiac valve diseases,103502,Pulmonary valvar stenosis: acquired
+Pulmonary valve disease,Cardiac valve diseases,103503,Pulmonary valvar stenosis: recurrent
+Pulmonary valve disease,Cardiac valve diseases,153010,Neopulmonary valvar regurgitation
+Pulmonary valve disease,Cardiac valve diseases,153009,Neopulmonary valvar stenosis
+Eisenmenger's syndrome,Pulmonary vessel disorders,101321,Pulmonary hypertension due to congenital systemic-to-pulmonary shunt
+Eisenmenger's syndrome,Pulmonary vessel disorders,101308,Irreversible pulmonary vascular disease due to congenital heart disease (Eisenmenger Syndrome)
+"Pulmonary heart disease, unspecified",Pulmonary vessel disorders,101608,Right ventricular-congestive heart failure
+"Disease of pericardium, unspecified","Cardiac infection, inflammation and other cardiovascular conditions",100829,Pericardial abnormality: acquired
+"Cardiovascular disease, unspecified","Cardiac infection, inflammation and other cardiovascular conditions",010139,Cardiac abnormality
+Aortic dissection,Aneurysm and dissection of specified arteries,101453,Ascending aorta dissection not beyond arch (DeBakey type II-Stanford type A)
+Aortic dissection,Aneurysm and dissection of specified arteries,101454,Descending aorta dissection & distal propagation (DeBakey type III-Stanford type B)
+Aortic dissection,Aneurysm and dissection of specified arteries,101451,Aortic dissection
+Aortic dissection,Aneurysm and dissection of specified arteries,153626,Dissection of aorta related to an intervention at coarctation site
+Aortic dissection,Aneurysm and dissection of specified arteries,101452,Ascending aorta dissection & propagation beyond arch (DeBakey type I)
+"Aortic aneurysm, unruptured",Aneurysm and dissection of specified arteries,101443,Descending aorta aneurysm
+"Aortic aneurysm, unruptured",Aneurysm and dissection of specified arteries,101444,Abdominal aorta aneurysm
+"Aortic aneurysm, unruptured",Aneurysm and dissection of specified arteries,101450,Aortic aneurysm
+"Aortic aneurysm, unruptured",Aneurysm and dissection of specified arteries,153707,Postprocedural aneurysm of aorta at coarctation site
+"Aortic aneurysm, unruptured",Aneurysm and dissection of specified arteries,153715,Aneurysm or pseudo-aneurysm of aorta related to an intervention at coarctation site
+"Aortic aneurysm, unruptured",Aneurysm and dissection of specified arteries,153780,Postprocedural aortic aneurysm
+"Aortic aneurysm, unruptured",Aneurysm and dissection of specified arteries,101442,Ascending aorta aneurysm
+Embolism or thrombosis of other arteries,Arterial embolism and thrombosis,101474,Paradoxical arterial embolus
+"Stroke, unspecified","Stroke, transient ischaemic attack and vascular dementia",140342,Cerebrovascular accident (stroke)
+Transient ischaemic attack,"Stroke, transient ischaemic attack and vascular dementia",140344,Transient ischaemic attack: less than 24 hours (TIA)
+Aortic valve disease,Cardiac valve diseases,153509,Stenosis of the neo-aortic valve of pulmonary origin
+Aortic valve disease,Cardiac valve diseases,103604,Aortic regurgitation: acquired
+Aortic valve disease,Cardiac valve diseases,103601,Aortic valvar abnormality: acquired
+Aortic valve disease,Cardiac valve diseases,091530,Aortic valvar prolapse
+Aortic valve disease,Cardiac valve diseases,100533,Rheumatic aortic valvar disease
+Aortic valve disease,Cardiac valve diseases,153510,Regurgitation of the neo-aortic valve of pulmonary origin
+Aortic valve disease,Cardiac valve diseases,103602,Aortic valvar stenosis: acquired
+Aortic valve disease,Cardiac valve diseases,153500,Postprocedural aortic valvar complication
+Aortic valve disease,Cardiac valve diseases,103603,Aortic valvar stenosis: recurrent
+Aortic valve disease,Cardiac valve diseases,103606,Aortic regurgitation: recurrent
+Aortic valve disease,Cardiac valve diseases,153517,Acquired abnormality of the neo-aortic valve of pulmonary origin
+Tricuspid valve disease,Cardiac valve diseases,151411,Postprocedural right-sided atrioventricular valvar abnormality in double inlet ventricle
+Tricuspid valve disease,Cardiac valve diseases,103201,Tricuspid valvar abnormality: acquired
+Tricuspid valve disease,Cardiac valve diseases,060101,Tricuspid atresia
+Tricuspid valve disease,Cardiac valve diseases,151100,Postprocedural tricuspid valvar complication
+Tricuspid valve disease,Cardiac valve diseases,103414,Acquired regurgitation of the right ventricular component of the common atrioventricular valve in biventricular connections
+Tricuspid valve disease,Cardiac valve diseases,103412,Acquired abnormality of the right-sided atrioventricular valve in double inlet ventricle
+Tricuspid valve disease,Cardiac valve diseases,060191,Tricuspid regurgitation
+Tricuspid valve disease,Cardiac valve diseases,060192,Tricuspid stenosis
+Tricuspid valve disease,Cardiac valve diseases,151400,Postprocedural right atrioventricular valvar complication
+Tricuspid valve disease,Cardiac valve diseases,103413,Acquired stenosis of the right ventricular component of the common atrioventricular valve in biventricular connections
+Mitral valve disease,Cardiac valve diseases,060201,Mitral atresia
+Mitral valve disease,Cardiac valve diseases,100531,Rheumatic mitral valvar disease
+Mitral valve disease,Cardiac valve diseases,151200,Postprocedural mitral valvar complication
+Mitral valve disease,Cardiac valve diseases,103302,Mitral valvar stenosis: acquired
+Mitral valve disease,Cardiac valve diseases,060272,Congenital mitral valvar prolapse
+Mitral valve disease,Cardiac valve diseases,103304,Mitral regurgitation: acquired
+Mitral valve disease,Cardiac valve diseases,103301,Mitral valvar abnormality: acquired
+Mitral valve disease,Cardiac valve diseases,103452,Acquired abnormality of the left-sided atrioventricular valve in double inlet ventricle
+Mitral valve disease,Cardiac valve diseases,103303,Mitral valvar stenosis: recurrent
+Mitral valve disease,Cardiac valve diseases,151500,Postprocedural left atrioventricular valvar complication
+Mitral valve disease,Cardiac valve diseases,060235,Mitral valvar prolapse
+Mitral valve disease,Cardiac valve diseases,103444,Left atrioventricular valvar regurgitation: acquired
+Mitral valve disease,Cardiac valve diseases,103306,Mitral regurgitation: recurrent
