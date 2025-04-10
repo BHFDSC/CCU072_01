@@ -1,5 +1,7 @@
 # Influence of COVID-19 on British burden of cardiovascular disease
 
+**Elias Allara, Wen Shi, Thomas Bolton, Fionna Chalmers, Luigi Filippo Brizzi, Liam Musto, Anoop S.V. Shah, Christopher Tomlinson, Isabel Walter, Nathalie Conrad, John Danesh, Emanuele Di Angelantonio, Steffen E. Petersen, Kamlesh Khunti, Elena Raffetti, Genevieve Cezard, Spiros Denaxas, Angela M. Wood, William Whiteley, on behalf of the CVD-COVID-UK/COVID-IMPACT Consortium**
+
 ## Project description
 
 Healthcare planners need important epidemiological metrics for cardiovascular diseases like heart attack and stroke. To plan services, they need to know how often people have diseases of different types (‘incidence’), how severe these diseases are (‘case fatality’), and how many people are living with different diseases (‘prevalence’). The COVID 19 pandemic has influenced all of these measures through a combination of direct and indirect impacts on cardiovascular diseases. We aim to see how a range of diseases changed before, during, and after the COVID-19 pandemic.
@@ -7,7 +9,7 @@ Healthcare planners need important epidemiological metrics for cardiovascular di
 We will calculate the incidence, case fatality and prevalence for a wide range of cardiovascular diseases, from the very rare to the very common. We will also see whether the estimates for commoner diseases like stroke and heart attack are different in people of different ethnicities, ages, levels of deprivation and sex in different regions of England. We will look at epidemiological metrics by years prior to the pandemic (before 2020), by months during the main phase of the pandemic (2020, 2021, 2022) and by years after the pandemic.
 
 ## How to cite this work
-> Citation details to follow
+Citation details to follow. The preprint can be viewed here: https://dx.doi.org/10.2139/ssrn.5203816
 
 ## Contents
 
