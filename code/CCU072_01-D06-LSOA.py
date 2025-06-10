@@ -199,7 +199,7 @@ for i in period:
   tmp4 = merge(tmp3, lsoa_imd, ['lsoa'], validate='m:1', keep_results=['both', 'left_only'])
   
   outName = f'{proj}_lsoa_icb_year{i}'.lower()
-  tmp3.select('PERSON_ID','region','region2','IMD_2019_DECILES').write.mode('overwrite').option('overwriteSchema', 'true').saveAsTable(f'{dsa}.{outName}')
+  tmp4.select('PERSON_ID','region','region2','IMD_2019_DECILES').write.mode('overwrite').option('overwriteSchema', 'true').saveAsTable(f'{dsa}.{outName}')
 
   # check
   tmp = spark.table(f'{dsa}.{outName}')
