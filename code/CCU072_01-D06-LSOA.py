@@ -187,7 +187,7 @@ for i in period:
                 .when(f.col('LSOA_1') == 'S', 'Scotland')
                 .otherwise(f.col('region'))
               )
-    .drop('_merge')
+    .drop('_merge','region')
   )
   tmp3 = merge(tmp2, icb, ['lsoa'], validate='m:1', keep_results=['both', 'left_only'])
         
